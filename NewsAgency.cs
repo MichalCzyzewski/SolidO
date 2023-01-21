@@ -14,7 +14,8 @@ namespace SolidO
         {
             _publisher = publisher;
             _newMessage = message;
-
+            // kod zostal z komentarzem od nowa
+            // jeszczce jeden komentarz
         }
 
         public void PublicNewMessage()
